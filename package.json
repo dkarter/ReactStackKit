@@ -1,9 +1,9 @@
 {
-  "name": "redux-simple-starter",
+  "name": "react-stack-kit",
   "version": "1.0.0",
-  "description": "Simple starter package for Redux with React and Babel support",
+  "description": "ReactStackKit provides a good starting point for React+Redux+Webpack projects",
   "main": "index.js",
-  "repository": "git@github.com:StephenGrider/ReduxSimpleStarter.git",
+  "repository": "git@github.com:dkarter/ReactStackKit.git",
   "scripts": {
     "start": "webpack-dev-server --progress --colors --inline",
     "test": "mocha --compilers js:babel-core/register --require ./test/test_helper.js --recursive ./test",
